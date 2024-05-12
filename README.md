@@ -1,4 +1,4 @@
-![logo](https://github.com/Tirthpal/Tirthpal/blob/main/Black%20Technology%20LinkedIn%20Banner.png)
+![logo](https://github.com/Tirthpal/Tirthpal/blob/main/Black%20Technology%20LinkedIn%20Banner.gif)
 <h1 align="center">Hi 👋, I'm Tirthpal Verma</h1>
 <h3 align="center">A passionate Cloud Solution Atchitect from India</h3>
 
